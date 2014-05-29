@@ -1,0 +1,133 @@
+article{
+    padding-left:5em;
+    width:80%; 
+}
+
+body{
+ background:url("../img/diagonal-noise.png"); 
+  width:100%;
+  margin-left: 4em;
+  
+} 
+
+body{
+	font-family:sans-serif;
+} 
+
+.designt{
+	height: 60em; 
+}
+
+p{
+	font-family:'Veranda', sans-serif;
+	margin-bottom:0; 
+	margin-top:0; 	
+}
+
+h3{
+	margin:0; 
+}
+
+h1{
+  
+  text-align:left;
+  margin-left: 3.5em;
+  color: #1D2040;
+}
+h1,h2,h3,ul,li,nav{
+  color:#1D2040;
+
+}
+
+section div{
+  height:;
+}
+
+header{
+  background: white;
+  width:80%;
+  margin-left: 4em;
+}
+
+img{
+  width:100%;
+}
+
+
+nav li{
+  display:inline-block;
+  font-size: 2em;
+  padding:.2em;
+  margin:0 auto; 
+}
+
+a:active:, a:visited{
+  background: blue;
+}
+
+a:hover{
+  background: lightgray;
+}
+
+
+a{
+  color:gray;
+  text-decoration: none;
+  
+}
+
+section{
+  display: block;
+  float: right;
+  height:30em;
+}
+
+div{
+  border-top:.1em solid darkgray;
+}
+
+
+
+.left{
+  position: top;
+  height:60%;
+  width:30%;
+  margin:.5em;
+  display:block;
+  float:left; 
+}
+
+.center{
+  position: ;
+  height:60%;
+  width:30%;
+  margin:.5em;
+  display:block;
+  
+}
+
+.right{
+  float:right;
+  position: top;
+  height:60%;
+  width:30%;
+  margin:.5em;
+  display:block;
+ 
+}
+
+.writing{
+  height:60em;
+ 
+}
+
+#right {
+	float: right; 
+	clear: right; 
+}
+
+#left {
+	float: left; 
+	clear: left; 
+}
+
